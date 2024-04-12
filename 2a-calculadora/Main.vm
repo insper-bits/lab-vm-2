@@ -1,0 +1,20 @@
+// Descritivo   : 
+//  Escreva um código em VM que realize a seguinte
+//  operação :
+//    (14+2)*(8-1)
+//
+//  O resultado deve ser salvo em temp 1
+//
+//  para isso utilize a funcao mult disponivel nessa
+//  pasta
+// 
+//  ****************************************************
+//  ** A ideia é deixar o Z01 resolver, você não deve **
+//  ** simplificar a equação                          **
+//  ****************************************************
+// ---------------------------------
+
+function Main.main 0
+
+// dica usar:
+// call mult 2
